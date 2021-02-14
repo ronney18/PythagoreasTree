@@ -1,9 +1,3 @@
-/*
- *Name: Ronney Sanchez 
- *Course: COMP2040 Computing IV
- *Assignment: PS1-Pythagoras Tree
- *
- */
 // Copyright 2018 Ronney Sanchez
 #ifndef PTree_INCLUDED
 #define PTree_INCLUDED
