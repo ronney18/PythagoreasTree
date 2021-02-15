@@ -96,7 +96,7 @@ void PTree::draw(sf::RenderTarget& target, sf::RenderStates states) const {
 }
 
 int main(int argc, char *argv[]) {
-    if (argc < 3) {
+    if (argc != 3) {
         std::cout << "Pythagoras Tree [side-length][recursion-depth]" <<
             std::endl;
         return -1;
